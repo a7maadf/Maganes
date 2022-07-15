@@ -4,6 +4,31 @@
 **COMING SOON**
 
 
+### If statment Example
+Code:
+```
+gay 1 + 1 == 2 ;
+    e5ri ("Conspiracy Found")
+trans ;
+    e5ri ("Fuck Women")
+```
+Output:
+`Conspiracy Found
+`
+
+Code:
+```
+gay 1 + 1 == 3 ;
+    e5ri ("Conspiracy Found")
+trans ;
+    e5ri ("Fuck Women")
+```
+Output:
+`Fuck Women
+`
+
+
+
 ### Loop Example
 Code:
 ```
