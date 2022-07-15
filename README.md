@@ -4,7 +4,7 @@
 **COMING SOON**
 
 
-### If statment Example
+### If statement Example
 Code:
 ```
 gay 1 + 1 == 2 ;
@@ -36,4 +36,6 @@ Code:
     e5ri (" Secularism is the reason ")
 ```
 Output:
+
+
 [![](https://i.ibb.co/SKfsSHN/image.png)](https://i.ibb.co/SKfsSHN/image.png)
