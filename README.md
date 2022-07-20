@@ -1,7 +1,12 @@
 # **The Maganes Programming Language**
 ###### *Made in support of the great, unique, and mighty Maganes in his battles*
+
+You can download the latest release [from here](https://github.com/a7maadf/Maganes/releases "from here")
+
+
 <img src="https://i.ibb.co/x1Bf8zM/94qy-Uihg-male-19-cartoon3.png" alt="" width="300" height="300" />
-**COMING SOON**
+
+
 
 
 ## Run Demo
