@@ -13,7 +13,7 @@ Code:
 gay 1 + 1 == 2 ;
     e5ri ("Conspiracy Found")
 trans ;
-    e5ri ("Fuck Women")
+    e5ri ("Maganes loves women")
 ```
 Output:
 `Conspiracy Found
