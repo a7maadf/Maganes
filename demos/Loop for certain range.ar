@@ -1,0 +1,15 @@
+neek i in range(5) ;
+    e5ri("aaaa")
+    
+    
+'''
+Output
+
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+
+
+'''
